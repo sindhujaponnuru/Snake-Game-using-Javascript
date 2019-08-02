@@ -1,0 +1,8 @@
+#mycanvas{
+  background-color: black;
+  align-items: center;
+  position: relative;
+}
+#text{
+  text-align: center;
+}
